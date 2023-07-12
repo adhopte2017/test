@@ -1,1 +1,17 @@
-{}
+{
+    "AgamaGluu": {
+        "projectName": "AgamaGluu",
+        "description": "Gluu",
+        "type": "community",
+        "author": "adhopte2017",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/adhopte2017/test",
+        "githubUri": "https://github.com/adhopte2017/test",
+        "license": "MIT",
+        "lastUpdated": "1689174100591",
+        "tags": [
+            "openid-connect",
+            "gluu"
+        ]
+    }
+}
